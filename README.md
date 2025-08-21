@@ -1,6 +1,14 @@
 # nifty50-valuation-framework
 Python-based valuation framework for NIFTY 50 stocks integrating P/E ratio and CAPM to detect mispricing, map performance against valuation, and visualize results with quadrant-style outputs.
 
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](#)  
+[![pandas](https://img.shields.io/badge/Library-pandas-yellow)](#)  
+[![NumPy](https://img.shields.io/badge/Library-NumPy-lightgrey)](#)  
+[![yfinance](https://img.shields.io/badge/API-yfinance-lightblue)](#)  
+[![statsmodels](https://img.shields.io/badge/Modeling-statsmodels-green)](#)  
+[![matplotlib](https://img.shields.io/badge/Visualization-matplotlib-orange)](#)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)  
+
 **Tagline:**  
 A data-driven framework to uncover undervalued outperformers and overvalued underperformers in the NIFTY 50.
 
